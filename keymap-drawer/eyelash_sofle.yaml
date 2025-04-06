@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - $$mdi:backspace-reverse-outline$$
+  - AC DEL
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -63,7 +63,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - '2'
-  - AC DESKTOP SHOW ALL APPLICATIONS
+  - Alt+Sft+S
   - '3'
   layer1:
   - {t: '`', s: '~'}
